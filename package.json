@@ -1,11 +1,17 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
+  "description": "test code",
   "main": "index.js",
+  "dependencies": {
+    "Faker": "^0.7.2",
+    "faker": "^4.1.0",
+    "jasmine": "^3.5.0",
+    "protractor": "^5.4.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Vishal Chhabra",
   "license": "ISC"
 }
